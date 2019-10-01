@@ -1,0 +1,21 @@
+{
+  "name": "uniq-by",
+  "version": "1.0.0",
+  "description": "Removes duplicates from an array based on a key",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemcbride/uniq-by.git"
+  },
+  "keywords": [
+    "array",
+    "unique",
+    "javascript"
+  ],
+  "author": "mikemcbride",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikemcbride/uniq-by/issues"
+  },
+  "homepage": "https://github.com/mikemcbride/uniq-by#readme"
+}
