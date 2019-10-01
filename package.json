@@ -1,6 +1,6 @@
 {
   "name": "uniq-by",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes duplicates from an array based on a key",
   "main": "index.js",
   "repository": {
